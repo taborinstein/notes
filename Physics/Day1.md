@@ -56,9 +56,9 @@ Sphere Mass is 60kg
 Density = 19.5g/cm^3
 Mass = Vol x Density
 => Vol = Mass / Density
-Vol = 60 / 19.65 = 3.07692308cm^3
-Vol = pi * r^2
-r = sqrt(Vol / pi)
+Vol = 60 / 19.65 =  cm^3
+Vol = 4/3pi r^3
+r = cbrt((3/4Vol)/pi)
 r = 0.989653998cm = 0.990cm
 
 **With a wooden ruler, you measure the length of a rectangular piece of sheet metal to be 14 mm. With micrometer calipers, you measure the width of the rectangle to be 4.98 mm**
