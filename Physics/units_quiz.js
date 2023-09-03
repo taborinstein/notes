@@ -16,13 +16,13 @@ let units = {
     cd: "candela"
 }
 let prefs = {
-    f: "fempto",
+    f: "femto",
     p: "pico",
     n: "nano",
     m: "milli",
     c: "centi",
     M: "mega",
-    G: "iga",
+    G: "giga",
     T: "tera",
     P: "peta"
 }
