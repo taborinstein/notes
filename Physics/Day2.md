@@ -19,3 +19,8 @@ Vectors are B and A, with some angle O between them
 **A** . **B** = B . A = ABcosO
 When finding angle, always rotate counterclockwise
 
+
+To find mag, py theorem
+
+A -> Ax + Ay (e.g 4i + 3j)
+arctan(Ay/Ax) => 
