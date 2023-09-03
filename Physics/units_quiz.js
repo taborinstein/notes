@@ -1,9 +1,13 @@
 const readline = require("readline");
-const r = readline.createInterface({input:process.stdin});
+
 async function input(s) {
-    console.log(s, "> ")
+    process.stdout.write(s + "\n> ")
+    const r = readline.createInterface({input:process.stdin});
     return new Promise(rs => {
-        r.on("line", rs);
+        r.on("line", l=>{
+            r.close()
+            rs(l);
+        })
     })
 }
 let units = {
@@ -26,7 +30,19 @@ let prefs = {
     T: "tera",
     P: "peta"
 }
-async function main() {
+let pows =  {
+    f: -15,
+    p: -12,
+    n: -9,
+    m: -3,
+    c: -2,
+    M: 6,
+    G: 9,
+    T: 12,
+    P: 15
+}
+
+async function units_quiz() {
     while(true) {
         let u = Object.keys(units)[~~(Math.random()*Object.keys(units).length)]
         let p = Object.keys(prefs)[~~(Math.random()*Object.keys(prefs).length)]
@@ -40,5 +56,25 @@ async function main() {
             console.log("Try again");
         }
     }
+}
+async function numbers_quiz() {
+    while(true) {
+        let p = Object.keys(pows)[~~(Math.random()*Object.keys(pows).length)]
+        
+        while(1) {
+            let ans = await input(p + " = 10^?");
+            if(+ans == pows[p]) {
+                console.log("Good job!");
+                break;
+            }
+            console.log("Try again");
+        }
+    }
+}
+async function main() {
+    let {argv} = process;
+    if(argv[2] == "numbers") return await numbers_quiz();
+    else return await units_quiz();
+
 }
 main();
