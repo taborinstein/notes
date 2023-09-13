@@ -1,0 +1,4 @@
+# Homework
+One thing I noticed is a common theme of imperialism that seems spread out throughout the 19th and 20th centuries. In this case, Spain is trying to control parts of South American for economic profit, but ends up failing to maintain control. Another thing that stood out is the importance of communication, as we can see lots of importance put on telegraph systems. In previous readings, especially those that took place before this one, telegraphs weren't invented yet, and therefore people had to rely on ships or other means of shipping to get their point across
+
+Side note - I like your writing style more than most of the documents we have read so far; it's easier to follow yet has the same amount of information, if not more. 
