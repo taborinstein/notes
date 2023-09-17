@@ -1,0 +1,2 @@
+# Homework
+The main thing I noticed is that as need for a resource increases, the need for someone to harvest those resources grows, and for a while the best way to obtain that was by using slaves. As slavery became illegal, slaveowners wanted to maintain the system they had created, and this was done via contracts or paying slaves measly salaries for the work they were doing. Despite this, illegal slave trade continued throughout the 19th century
