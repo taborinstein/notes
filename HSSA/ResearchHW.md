@@ -41,3 +41,38 @@ Wikipedia, Military production during WWII, accessed 15 Sep 2023, https://en.wik
 <!-- I'm not trying to use wikipedia for everything, it's usually just the first source I find -->
 **Source G:**
 Library of Congress, The Beginnings of American Railroads and Mapping, accessed 15 Sep 2023, https://www.loc.gov/collections/railroad-maps-1828-to-1900/articles-and-essays/history-of-railroads-and-maps/the-beginnings-of-american-railroads-and-mapping/
+
+# Part 2
+Catalogs:
+1. (Logan Library Catalog) "Mechanization", basic search, 13 hits, 1 relevant
+2. (Purdue Catalog) "Industrial Revolution" AND "Mechanization" AND "19th Century", advanced search, 35 results, 4 relevant?
+3. (IU Catalog) "Automobile" AND "Assembly Line", advanced search, 31 results, 2 relevant
+Academic Search Complete:
+1. "Steam engine" AND "Automation", advanced search, 14 results, 2 relevant
+2. "World War II industry" AND "factory", advanced search, 11 results, 1 relevant
+3. "water wheel" AND "mill" AND "history", advanced search, 6 results, 1 relevant
+JSTOR:
+1. ((pulley block) AND (mass production)) AND ((assembly line)) NOT ((car)), advanced search, 101 results, most relevant
+2. ((bulk material handling)) AND ((industrial revolution)) AND ((flour mill)) AND ((mass production)) AND ((steam engine)) NOT ((agriculture)), advanced search, 128 results, most relevant
+3. ((Henry ford)) AND ((World War II)) AND ((mass production)) AND ((automation)) AND ((mechanization)) NOT ((agriculture)), advanced search, 98 results, most relevant
+Technology and Culture:
+- Basic search of "Mechanization," 13 results, 3 relevant
+
+# Part 3
+Atack, Jeremy, Robert A. Margo, and Paul W. Rhode. “‘Mechanization Takes Command?’: Powered Machinery and Production Times in Late Nineteenth-Century American Manufacturing.” The Journal of economic history 82, no. 3 (2022): 663–689. (Purdue Library Catalog)
+
+Emery, Fred. “THE ASSEMBLY LINE: ITS LOGIC AND OUR FUTURE.” International Studies of Management & Organization 8, no. 1/2 (1978): 82–100. http://www.jstor.org/stable/41575564.
+
+~~Meulen, Jacob Vander. 1997. “World War II Aircraft Industry in the West.” Journal of the West 36 (3): 78–84. https://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=a9h&AN=9709123132&site=ehost-live&scope=site.~~
+
+Rosenbloom, Richard S. "Men and Machines: Some 19th-Century Analyses of Mechanization." Technology and Culture 5, no. 4 (1964): 489-511. muse.jhu.edu/article/894815.
+
+Sicilia, David B. “Steam Power and the Progress of Industry in the Late Nineteenth Century.” Theory & Society 15, no. 1/2 (January 1986): 287–99. doi:10.1007/BF00156935.
+
+Smith, Norman A. F. 1980. “Water Power.” History Today 30 (3): 37. https://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=a9h&AN=4864928&site=ehost-live&scope=site.
+
+# Notes after meeting
+-> focus on grain, flour, etc.
+look at mineapolis museum website, could have interesting dates, people, etc.
+pick spot in timeline, work way out from there
+don't work on multiple parts at once, focus on one
